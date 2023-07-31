@@ -15,4 +15,4 @@ sudo chmod +x bypass403
 ./bypass403 https://domain.com  path
 ```
 
-
+![page appearance](https://github.com/X-3306/bypass403/blob/main/Screenshot.png)
